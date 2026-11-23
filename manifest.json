@@ -1,0 +1,16 @@
+{
+  "name": "Spelletjes",
+  "short_name": "Spelletjes",
+  "start_url": ".",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#78c8ff",
+  "theme_color": "#78c8ff",
+  "icons": [
+    {
+      "src": "icoon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
